@@ -1,0 +1,33 @@
+FRED Graph Observations,
+Federal Reserve Economic Data,
+Link: https://fred.stlouisfed.org,
+Help: https://fred.stlouisfed.org/help-faq,
+Economic Research Division,
+Federal Reserve Bank of St. Louis,
+,
+ILNGSP,"Total Gross Domestic Product for Illinois, Millions of Dollars, Annual, Not Seasonally Adjusted"
+,
+Frequency: Annual,
+observation_date,ILNGSP
+1997-01-01,415770.7
+1998-01-01,436166.7
+1999-01-01,459322.1
+2000-01-01,487212.7
+2001-01-01,502260.3
+2002-01-01,514063.8
+2003-01-01,529455.4
+2004-01-01,558748.4
+2005-01-01,586693.9
+2006-01-01,621859.9
+2007-01-01,647862.1
+2008-01-01,646366.6
+2009-01-01,644690.1
+2010-01-01,662637.8
+2011-01-01,688288.9
+2012-01-01,720702.3
+2013-01-01,739627.9
+2014-01-01,765910.2
+2015-01-01,792614.0
+2016-01-01,805434.1
+2017-01-01,825810.5
+2018-01-01,864587.3

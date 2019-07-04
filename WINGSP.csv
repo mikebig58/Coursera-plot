@@ -1,0 +1,33 @@
+FRED Graph Observations,
+Federal Reserve Economic Data,
+Link: https://fred.stlouisfed.org,
+Help: https://fred.stlouisfed.org/help-faq,
+Economic Research Division,
+Federal Reserve Bank of St. Louis,
+,
+WINGSP,"Total Gross Domestic Product for Wisconsin, Millions of Dollars, Annual, Not Seasonally Adjusted"
+,
+Frequency: Annual,
+observation_date,WINGSP
+1997-01-01,153240.7
+1998-01-01,162523.0
+1999-01-01,172258.1
+2000-01-01,180539.0
+2001-01-01,187939.3
+2002-01-01,194813.1
+2003-01-01,203134.7
+2004-01-01,215138.9
+2005-01-01,225697.9
+2006-01-01,235708.6
+2007-01-01,243766.7
+2008-01-01,244759.9
+2009-01-01,245539.0
+2010-01-01,254354.1
+2011-01-01,263881.6
+2012-01-01,274343.9
+2013-01-01,282384.6
+2014-01-01,293519.4
+2015-01-01,304852.2
+2016-01-01,312140.5
+2017-01-01,321584.4
+2018-01-01,336971.5
